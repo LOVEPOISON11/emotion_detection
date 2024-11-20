@@ -1,3 +1,5 @@
+## About the Project
+The Emotion Detection System frontend is a modern, responsive web application built with Next.js, designed to provide an intuitive user interface for analyzing and visualizing human emotions. It serves as the user-facing component of the system, offering seamless navigation, real-time feedback, and data visualization tools.
 ## Getting Started
 
 First, 
