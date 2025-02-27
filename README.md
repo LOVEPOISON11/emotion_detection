@@ -20,6 +20,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Deployed on Vercel
 
-[emotion-detection](https://emotion-detection-hci.vercel.app/) 
+[emotion-detection](https://emotion-detection-self.vercel.app/) 
 
 
